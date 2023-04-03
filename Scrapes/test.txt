@@ -1,0 +1,17 @@
+1 - pickup from airport, drive home + dinner, fishnchips
+2 - London sightseeing - double decker bus tour, get quick food, boat trip, maybe dinner
+3 - London day 2 - Kew Gardens, lunch/afternoon tea at the gardens, national history museum, hamleys, Benihana
+4 - Windsor - book castle tour, parks with goshi
+5 - Andy's Birthday
+6 - Oxford/Cambridge, maybe family food evening at abbots
+7 - Young people day
+8 - St Albans, see cathedral, oldest pub, park, verulenium museum?, food, drop off at airport in evening
+
+Saturday - pick up airport (1)
+Sunday   - London sightsee (2)
+Monday   - Windsor/Oxford  (4/6)
+Tuesday  - London 2/Wind/Ox(3/4/6)
+Wednesday- Andy's B-day	   (5)
+Thurs	 - L2/Wind/Ox/Young(3/4/6)
+Fri	 - L2/Wind/Ox/Young(3/4/6)
+Sat	 - St Alban's	   (8)
